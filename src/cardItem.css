@@ -1,0 +1,33 @@
+.media{
+    display: flex;
+    flex-direction: column;
+    width: 230px;
+    padding: 5px;
+    margin: 5px 0;
+    background-color: wheat;
+    border-radius: 10px;
+    position: relative;
+    font-family: 'Montserrat', sans-serif;
+
+}
+.media:hover{
+    background-color: #aaaaaa;
+    
+}
+.poster{
+    border-radius: 10px;
+}
+.title{
+    width: 100%;
+    font-size: 17px;
+    padding: 8px 0;
+    text-align: center;
+}
+.subtitle{
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 3px;
+    padding: 0  2px;
+    padding-bottom: 3px;
+
+}

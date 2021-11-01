@@ -1,0 +1,11 @@
+.trending{
+
+margin: 2px;
+justify-content: space-around;
+display: flex;
+flex-wrap: wrap;
+/* font-size: 2vw; */
+
+
+
+}
